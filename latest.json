@@ -1,9 +1,9 @@
 {
-  "versionCode": 350,
-  "versionName": "3.5",
-  "notes": "Correctif important : fin des plantages par manque de mémoire avec les gros catalogues, suppression des sources en double créées par la synchronisation, défilement plus fluide, affichage corrigé sur téléphone (QR code, boutons, réglages).",
+  "versionCode": 360,
+  "versionName": "3.6",
+  "notes": "Message « Lecture impossible » fermable (toucher hors du cadre, croix, Quitter, Chaîne suivante), onglet actif correct sur tous les écrans, menu TV complet (Plus accessible), guide TV aligné sur l'heure, recherche avec historique, nombreuses retouches de mise en page (téléphone, grande police, écran pliable, TV). Inclut les correctifs mémoire et doublons de la 3.5.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.5-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.5-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.6-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.6-armeabi-v7a.apk"
   }
 }
