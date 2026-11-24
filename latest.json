@@ -1,9 +1,9 @@
 {
-  "versionCode": 340,
-  "versionName": "3.4",
-  "notes": "Contenus adultes réglables par profil, sélections rapides des catégories par pays et langue (dont « Francophone uniquement »), doublons masqués, catégories identiques fusionnées.",
+  "versionCode": 350,
+  "versionName": "3.5",
+  "notes": "Correctif important : fin des plantages par manque de mémoire avec les gros catalogues, suppression des sources en double créées par la synchronisation, défilement plus fluide, affichage corrigé sur téléphone (QR code, boutons, réglages).",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.4-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.4-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.5-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.5-armeabi-v7a.apk"
   }
 }
