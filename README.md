@@ -6,6 +6,8 @@
 
 **Le lecteur IPTV pensé comme une box : clair sur téléphone, confortable sur TV.**
 
+**🇫🇷 Français** · [🇬🇧 English](README.en.md)
+
 [![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJulhid%2Fmuvixa-releases%2Fmain%2Flatest.json&query=%24.versionName&label=version&color=8B5CF6)](#téléchargement)
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](#installation)
 [![Android TV](https://img.shields.io/badge/Android%20TV-compatible-22D3EE?logo=android&logoColor=white)](#sur-une-tv-android)
