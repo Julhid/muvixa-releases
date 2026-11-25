@@ -1,9 +1,9 @@
 {
-  "versionCode": 3160,
-  "versionName": "3.16",
-  "notes": "Direct sans passages répétés : quand le serveur coupe et renvoie un morceau déjà vu, MUVIXA écarte ce qui a déjà été lu en se repérant sur l'horloge du flux. L'image continue sans saut en arrière ni répétition.",
+  "versionCode": 3170,
+  "versionName": "3.17",
+  "notes": "Direct plus fluide : quand le serveur envoie une chaîne par morceaux, MUVIXA essaie automatiquement le format HLS (m3u8), servi sans coupure, et le garde pour cette source s'il fonctionne. Un morceau renvoyé à l'identique n'est plus retéléchargé. Le message « le flux saccade » ne s'affiche plus qu'une fois par séance.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.16-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.16-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.17-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.17-armeabi-v7a.apk"
   }
 }
