@@ -1,9 +1,9 @@
 {
-  "versionCode": 3150,
-  "versionName": "3.15",
-  "notes": "Correctif du direct : certains serveurs coupent la connexion toutes les 20 secondes environ. MUVIXA la rouvre maintenant en continu, sans coupure visible ni écran de reconnexion. La vérification automatique des chaînes est désactivée par défaut (elle utilisait une connexion de l'abonnement). Rapport de diagnostic plus court, les événements récents en premier.",
+  "versionCode": 3160,
+  "versionName": "3.16",
+  "notes": "Direct sans passages répétés : quand le serveur coupe et renvoie un morceau déjà vu, MUVIXA écarte ce qui a déjà été lu en se repérant sur l'horloge du flux. L'image continue sans saut en arrière ni répétition.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.15-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.15-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.16-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.16-armeabi-v7a.apk"
   }
 }
