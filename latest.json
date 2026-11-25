@@ -1,9 +1,9 @@
 {
-  "versionCode": 3200,
-  "versionName": "3.20",
-  "notes": "Le passage automatique en HLS est retiré : chez les fournisseurs à une seule connexion, il provoquait des refus « trop de connexions » (HTTP 509) au moindre changement de chaîne. Les sources concernées repassent en .ts. Le journal de diagnostic détaille maintenant comment le serveur découpe le direct, pour corriger les saccades à la source. Inclut les correctifs Chromecast de la 3.19.",
+  "versionCode": 3210,
+  "versionName": "3.21",
+  "notes": "Format du direct automatique : pour chaque source, MUVIXA mesure la fluidité pendant que tu regardes (saccades, refus de connexion, échecs) et garde tout seul le meilleur format entre MPEG-TS et HLS. Le choix manuel reste possible dans les réglages de la source.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.20-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.20-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.21-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.21-armeabi-v7a.apk"
   }
 }
