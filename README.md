@@ -10,5 +10,5 @@ Ce dépôt ne contient que les APK publiés et le fichier `latest.json` utilisé
 
 ## Téléchargement direct
 
-- [MUVIXA 3.13 — arm64-v8a](apk/MUVIXA-3.13-arm64-v8a.apk)
-- [MUVIXA 3.13 — armeabi-v7a](apk/MUVIXA-3.13-armeabi-v7a.apk)
+- [MUVIXA 3.14 — arm64-v8a](apk/MUVIXA-3.14-arm64-v8a.apk)
+- [MUVIXA 3.14 — armeabi-v7a](apk/MUVIXA-3.14-armeabi-v7a.apk)

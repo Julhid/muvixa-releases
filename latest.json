@@ -1,9 +1,9 @@
 {
-  "versionCode": 3130,
-  "versionName": "3.13",
-  "notes": "Épisode suivant : corrigé quand la série a été reprise depuis « Continuer ». Moins de mémoire utilisée (catalogues environ 25 % plus légers) pour les TV à 2 Go. Après un plantage, le détail s'affiche à l'écran pour pouvoir le photographier ; après plusieurs plantages à l'ouverture, l'appli démarre en mode sans échec.",
+  "versionCode": 3140,
+  "versionName": "3.14",
+  "notes": "Correctif important : quand le fournisseur coupe le flux, MUVIXA se reconnecte automatiquement (et reprend au même endroit pour un film ou un épisode) au lieu de revenir à l'accueil. La vérification des chaînes ne tourne plus juste après une lecture.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.13-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.13-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.14-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.14-armeabi-v7a.apk"
   }
 }
