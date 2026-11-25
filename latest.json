@@ -1,9 +1,9 @@
 {
-  "versionCode": 3110,
-  "versionName": "3.11",
-  "notes": "Lecture beaucoup plus fluide : plus de gels toutes les 10 secondes ni de fermetures pendant les mises à jour (synchronisation et actualisations attendent la fin de la lecture). Plus de petits sauts de l'écran pendant les mises à jour. Nouveautés : « Qui regarde ? » à l'ouverture, « Sur la TV » pour lancer une vidéo du téléphone sur la TV, statistiques de visionnage, enregistrements sur clé USB ou disque.",
+  "versionCode": 3120,
+  "versionName": "3.12",
+  "notes": "Mémoire tampon adaptative : une chaîne qui saccade reçoit automatiquement un tampon plus long, mémorisé pour elle, sans rallonger le démarrage des chaînes. Ouverture bien plus rapide avec les gros catalogues (environ 4 fois plus rapide avant d'afficher l'accueil).",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.11-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.11-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.12-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.12-armeabi-v7a.apk"
   }
 }
