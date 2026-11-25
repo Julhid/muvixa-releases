@@ -1,9 +1,9 @@
 {
-  "versionCode": 3100,
-  "versionName": "3.10",
-  "notes": "Séries : épisode suivant automatique pendant le générique de fin, enchaînement des saisons, bouton « Passer le générique ». Films : suggestions du même genre à la fin. Incrustation d'une 2e chaîne (appui long dans la liste), aperçu en direct en option, reprise d'un appareil à l'autre, « Tu regardes toujours ? ». Correctifs : plantage du bouton Chromecast, sources en double après synchronisation, vérification des chaînes plus fiable.",
+  "versionCode": 3110,
+  "versionName": "3.11",
+  "notes": "Lecture beaucoup plus fluide : plus de gels toutes les 10 secondes ni de fermetures pendant les mises à jour (synchronisation et actualisations attendent la fin de la lecture). Plus de petits sauts de l'écran pendant les mises à jour. Nouveautés : « Qui regarde ? » à l'ouverture, « Sur la TV » pour lancer une vidéo du téléphone sur la TV, statistiques de visionnage, enregistrements sur clé USB ou disque.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.10-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.10-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.11-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.11-armeabi-v7a.apk"
   }
 }
