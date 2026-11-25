@@ -1,9 +1,9 @@
 {
-  "versionCode": 370,
-  "versionName": "3.7",
-  "notes": "Catégories intelligentes : Nouveautés, Box-office, Les mieux notés, 4K, plateformes (Netflix, Disney+…), genres et thèmes du direct (Sports, Info…). Une seule catégorie « Adultes ». Catégories épinglées en tête dans l'ordre de ton choix. Numéros de chaîne fixes. Pause du direct avec reprise en différé. Démarrage automatique avec la TV.",
+  "versionCode": 380,
+  "versionName": "3.8",
+  "notes": "Liste des chaînes pendant la lecture (OK sur la télécommande). Le téléphone devient une vraie télécommande (lecture, zapping, volume, liste des chaînes). Différé : recul et avance de 30 s. Enregistrements depuis le guide ou le direct. Chaînes hors service repérées et masquées. Alertes sport. Code et avatar par profil. Les contenus adultes n'apparaissent plus dans « vu récemment ».",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.7-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.7-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.8-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.8-armeabi-v7a.apk"
   }
 }
