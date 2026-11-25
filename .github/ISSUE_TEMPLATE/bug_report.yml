@@ -1,0 +1,47 @@
+name: Signaler un problème
+description: Un plantage, une lecture qui ne marche pas, un affichage incorrect…
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de prendre le temps de signaler ce problème.
+        ⚠️ N'écris **jamais** ton identifiant, ton mot de passe ou l'adresse complète de ton abonnement : le rapport de diagnostic les masque déjà.
+  - type: input
+    id: version
+    attributes:
+      label: Version de MUVIXA
+      description: Elle figure en tête du rapport de diagnostic.
+      placeholder: "3.23"
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Appareil
+      options:
+        - Téléphone
+        - Tablette
+        - TV Android / box
+        - Autre
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Modèle et version d'Android
+      placeholder: "Xiaomi Mi TV, Android 9"
+  - type: textarea
+    id: what
+    attributes:
+      label: Que s'est-il passé ?
+      description: Ce que tu faisais, ce que tu attendais, ce qui s'est produit.
+    validations:
+      required: true
+  - type: textarea
+    id: report
+    attributes:
+      label: Rapport de diagnostic
+      description: Plus › Sources & réglages › Envoyer le rapport, puis colle-le ici. Sur TV après un plantage, scanne le QR code avec ton téléphone.
+      render: text

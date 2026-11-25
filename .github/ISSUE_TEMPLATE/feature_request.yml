@@ -1,0 +1,17 @@
+name: Proposer une idée
+description: Une fonction qui manque, une amélioration
+title: "[Idée] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Ton idée
+      description: Ce que tu aimerais pouvoir faire, et sur quel appareil (téléphone, TV…).
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Pourquoi ?
+      description: Le besoin derrière l'idée aide à trouver la meilleure solution.

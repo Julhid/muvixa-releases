@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 108 108" role="img" aria-label="MUVIXA">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6D28D9"/><stop offset="0.5" stop-color="#4338CA"/><stop offset="1" stop-color="#0891B2"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="0.37" cy="0.31" r="0.56">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.33"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="108" height="108" rx="26" fill="url(#bg)"/>
+  <circle cx="54" cy="54" r="46" fill="url(#shine)"/>
+  <path fill="#000" fill-opacity="0.2" d="M35,74V37h8.5l11.5,15.5 11.5,-15.5H75v37h-8.5V52L55,67.5 43.5,52v22z"/>
+  <path fill="#FFF" d="M33,72V35h8.5l11.5,15.5 11.5,-15.5H73v37h-8.5V50L53,65.5 41.5,50v22z"/>
+  <circle cx="78" cy="33" r="5.5" fill="#22D3EE"/>
+  <rect x="30" y="79" width="48" height="3" fill="#F472B6"/>
+</svg>
