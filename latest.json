@@ -1,9 +1,9 @@
 {
-  "versionCode": 380,
-  "versionName": "3.8",
-  "notes": "Liste des chaînes pendant la lecture (OK sur la télécommande). Le téléphone devient une vraie télécommande (lecture, zapping, volume, liste des chaînes). Différé : recul et avance de 30 s. Enregistrements depuis le guide ou le direct. Chaînes hors service repérées et masquées. Alertes sport. Code et avatar par profil. Les contenus adultes n'apparaissent plus dans « vu récemment ».",
+  "versionCode": 390,
+  "versionName": "3.9",
+  "notes": "Télécommande téléphone refaite : temps réel, fiable, reste reliée d'une ouverture à l'autre. Sur TV, le bouton sélectionné dans le lecteur est bien visible avec son nom. Liste des chaînes façon box (bouquets, chaînes, fiche du programme) sans quitter ce que tu regardes. Bandeau d'infos au changement de chaîne. Assistant Google (« regarde TF1 sur MUVIXA »). Suivi de séries avec notification des nouveaux épisodes. Temps d'écran pour les profils enfants.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.8-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.8-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.9-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.9-armeabi-v7a.apk"
   }
 }
