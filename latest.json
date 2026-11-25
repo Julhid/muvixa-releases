@@ -1,9 +1,9 @@
 {
-  "versionCode": 3210,
-  "versionName": "3.21",
-  "notes": "Format du direct automatique : pour chaque source, MUVIXA mesure la fluidité pendant que tu regardes (saccades, refus de connexion, échecs) et garde tout seul le meilleur format entre MPEG-TS et HLS. Le choix manuel reste possible dans les réglages de la source.",
+  "versionCode": 3220,
+  "versionName": "3.22",
+  "notes": "Nouvelle présentation : affiche qui défile, tuiles Netflix, Disney+, Prime Video…, rangées simples (Box-office, Nouveautés, genres) ; les catégories du fournisseur sont rangées à part. Direct : la TNT en premier avec les numéros officiels et une seule version par chaîne (la meilleure qualité, les autres en secours), puis thèmes, bouquets Orange, SFR, Free, Bouygues et plateformes. Français de France seulement par défaut (réglable) : beaucoup moins de mémoire utilisée, ce qui corrige les plantages sur les TV. Un seul exemplaire de chaque film ou série, avec bascule automatique vers une autre source si besoin. Durée des films et épisodes, heure de fin. Son AC3, E-AC3, DTS lu directement. Ajout de source en collant simplement le lien ou le message du fournisseur.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.21-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.21-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.22-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.22-armeabi-v7a.apk"
   }
 }
