@@ -1,9 +1,9 @@
 {
-  "versionCode": 390,
-  "versionName": "3.9",
-  "notes": "Télécommande téléphone refaite : temps réel, fiable, reste reliée d'une ouverture à l'autre. Sur TV, le bouton sélectionné dans le lecteur est bien visible avec son nom. Liste des chaînes façon box (bouquets, chaînes, fiche du programme) sans quitter ce que tu regardes. Bandeau d'infos au changement de chaîne. Assistant Google (« regarde TF1 sur MUVIXA »). Suivi de séries avec notification des nouveaux épisodes. Temps d'écran pour les profils enfants.",
+  "versionCode": 3100,
+  "versionName": "3.10",
+  "notes": "Séries : épisode suivant automatique pendant le générique de fin, enchaînement des saisons, bouton « Passer le générique ». Films : suggestions du même genre à la fin. Incrustation d'une 2e chaîne (appui long dans la liste), aperçu en direct en option, reprise d'un appareil à l'autre, « Tu regardes toujours ? ». Correctifs : plantage du bouton Chromecast, sources en double après synchronisation, vérification des chaînes plus fiable.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.9-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.9-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.10-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.10-armeabi-v7a.apk"
   }
 }
