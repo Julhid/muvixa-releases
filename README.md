@@ -6,13 +6,12 @@
 
 **Le lecteur IPTV pensé comme une box : clair sur téléphone, confortable sur TV.**
 
-[![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJulhid%2Fmuvixa-releases%2Fmain%2Flatest.json&query=%24.versionName&label=version&color=8B5CF6)](https://github.com/Julhid/muvixa-releases/releases/latest)
+[![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJulhid%2Fmuvixa-releases%2Fmain%2Flatest.json&query=%24.versionName&label=version&color=8B5CF6)](#téléchargement)
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](#installation)
 [![Android TV](https://img.shields.io/badge/Android%20TV-compatible-22D3EE?logo=android&logoColor=white)](#sur-une-tv-android)
-[![Téléchargements](https://img.shields.io/github/downloads/Julhid/muvixa-releases/total?label=t%C3%A9l%C3%A9chargements&color=F472B6)](https://github.com/Julhid/muvixa-releases/releases)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)](#sous-le-capot)
 
-[**Télécharger la dernière version**](https://github.com/Julhid/muvixa-releases/releases/latest) · [Nouveautés](CHANGELOG.md) · [Signaler un problème](https://github.com/Julhid/muvixa-releases/issues/new/choose)
+[**Télécharger**](#téléchargement) · [Nouveautés](CHANGELOG.md) · [Signaler un problème](https://github.com/Julhid/muvixa-releases/issues/new/choose)
 
 <img src="docs/screenshots/tv-films.jpg" width="820" alt="MUVIXA sur Android TV : films">
 
@@ -24,6 +23,7 @@
 
 ## Sommaire
 
+- [Téléchargement](#téléchargement)
 - [Aperçu](#aperçu)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
@@ -32,6 +32,17 @@
 - [Questions fréquentes](#questions-fréquentes)
 - [Sous le capot](#sous-le-capot)
 - [Contenu de ce dépôt](#contenu-de-ce-dépôt)
+
+## Téléchargement
+
+<div align="center">
+
+[![Télécharger pour téléphone et box récente](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20box%20r%C3%A9cente-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.23-arm64-v8a.apk)
+[![Télécharger pour TV Android](https://img.shields.io/badge/TV%20Android%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.23-armeabi-v7a.apk)
+
+<sub>Version 3.23 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
+
+</div>
 
 ## Aperçu
 
@@ -102,12 +113,12 @@
 > En cas de doute sur une TV, prends **armeabi-v7a** : cette version fonctionne aussi sur les appareils récents.
 
 ### Sur un téléphone ou une tablette
-1. Ouvre la [dernière version](https://github.com/Julhid/muvixa-releases/releases/latest) et télécharge l'APK.
+1. Télécharge l'APK depuis la section [Téléchargement](#téléchargement).
 2. Ouvre le fichier et autorise l'installation depuis ton navigateur si Android le demande.
 
 ### Sur une TV Android
 1. Installe une appli de téléchargement depuis le Play Store de la TV (par exemple *Downloader*), ou copie l'APK sur une clé USB.
-2. Ouvre le lien de la [dernière version](https://github.com/Julhid/muvixa-releases/releases/latest) et lance le fichier `armeabi-v7a`.
+2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.23-armeabi-v7a.apk`
 3. Autorise l'installation d'applis inconnues pour cette appli quand la TV le demande.
 
 ### Mises à jour
@@ -176,8 +187,7 @@ Ce dépôt sert à **publier** MUVIXA. Le code source n'y figure pas.
 
 | Élément | Rôle |
 | --- | --- |
-| [Releases](https://github.com/Julhid/muvixa-releases/releases) | Chaque version, avec ses APK et ses notes |
-| [`apk/`](apk) | Les APK de la dernière version (lien direct utilisé par l'appli) |
+| [`apk/`](apk) | Les APK de la dernière version |
 | [`latest.json`](latest.json) | Manifeste lu par l'appli pour proposer les mises à jour |
 | [`CHANGELOG.md`](CHANGELOG.md) | Historique des versions |
 
