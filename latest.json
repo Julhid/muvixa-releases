@@ -1,9 +1,9 @@
 {
-  "versionCode": 3190,
-  "versionName": "3.19",
-  "notes": "Chromecast : le son revient sur les chaînes en direct (le récepteur cherchait une piste son séparée). Pendant la diffusion, la lecture sur le téléphone est vraiment coupée pour libérer la connexion de l'abonnement, puis reprend au même endroit à la fin. Erreur « trop de connexions » (HTTP 509) : MUVIXA attend que le serveur libère la place (10 à 30 s) au lieu de réessayer en boucle.",
+  "versionCode": 3200,
+  "versionName": "3.20",
+  "notes": "Le passage automatique en HLS est retiré : chez les fournisseurs à une seule connexion, il provoquait des refus « trop de connexions » (HTTP 509) au moindre changement de chaîne. Les sources concernées repassent en .ts. Le journal de diagnostic détaille maintenant comment le serveur découpe le direct, pour corriger les saccades à la source. Inclut les correctifs Chromecast de la 3.19.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.19-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.19-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.20-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.20-armeabi-v7a.apk"
   }
 }
