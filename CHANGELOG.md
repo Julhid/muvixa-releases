@@ -2,6 +2,11 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.36 – 2026-11-26
+
+- Choix du pays : sous « Source », une ligne « Pays » (Tous · 🇫🇷 France · 🇪🇸 Espagne…) dans le Direct, les Films et les Séries. Elle n'apparaît que s'il y a plusieurs pays. La France est toujours en premier.
+- Noms des pays traduits dans les 8 langues.
+
 ## 3.35 – 2026-11-26
 
 - Profils : le nom se modifie (crayon à côté de « Mon profil »).
