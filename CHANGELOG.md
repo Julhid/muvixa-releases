@@ -2,6 +2,13 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.33 – 2026-11-26
+
+- Pays et langues en plus du français : dans Plus › Catégories, toucher un pays (Espagne, Italie…) l'ajoute au français, chaînes, films et séries compris. Avant, il restait vide quand « Français de France uniquement » était actif.
+- Validité de l'abonnement affichée en couleur dans Sources & réglages : date de fin et jours restants (vert, orange sous 30 jours, rouge sous 7 jours).
+- Correctif : avec l'interface en espagnol, allemand, italien, portugais, néerlandais ou polonais, un compte Xtream actif pouvait être refusé à l'ajout.
+- Correctif : erreurs « accès refusé » et « trop de connexions » reconnues quelle que soit la langue.
+
 ## 3.32 – 2026-11-26
 
 - Télécommande : la présentation du premier lancement répond enfin aux flèches (le menu caché dessous gardait le focus). Le premier choix est sélectionné d'office.
