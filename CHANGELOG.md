@@ -2,6 +2,13 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.30 – 2026-11-26
+
+### Ajouté
+- « À regarder plus tard » : bouton sur les fiches films et séries, rangée sur l'accueil et dans Films/Séries, retrait automatique une fois vu ; synchronisé entre appareils.
+- Rangées « Parce que tu as regardé… » propres à chaque profil.
+- Widget pour l'écran d'accueil du téléphone : reprendre la lecture et 4 chaînes favorites.
+
 ## 3.29 – 2026-11-26
 
 ### Ajouté

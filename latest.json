@@ -1,9 +1,9 @@
 {
-  "versionCode": 3290,
-  "versionName": "3.29",
-  "notes": "Direct : si une chaîne saccade, MUVIXA passe tout seul à une version plus légère (FHD → HD → SD) et la garde 30 minutes. Recherche : les programmes du guide TV des 7 prochains jours apparaissent aussi (« PSG », un film…), avec rappel ou enregistrement en un geste. Lecteur sur téléphone : glisser horizontalement pour avancer/reculer, ou changer de chaîne en direct.",
+  "versionCode": 3300,
+  "versionName": "3.30",
+  "notes": "Nouveau : « À regarder plus tard » (bouton sur les fiches, rangée sur l'accueil, retiré tout seul une fois vu) ; suggestions « Parce que tu as regardé… » propres à chaque profil ; widget pour l'écran d'accueil du téléphone (reprendre la lecture et 4 chaînes favorites).",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.29-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.29-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.30-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.30-armeabi-v7a.apk"
   }
 }
