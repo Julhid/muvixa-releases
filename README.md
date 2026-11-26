@@ -12,6 +12,7 @@
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](#installation)
 [![Android TV](https://img.shields.io/badge/Android%20TV-compatible-22D3EE?logo=android&logoColor=white)](#sur-une-tv-android)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)](#sous-le-capot)
+[![Soutenir sur Ko-fi](https://img.shields.io/badge/Ko--fi-Offre--moi%20un%20caf%C3%A9-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/muvixa)
 
 [**Télécharger**](#téléchargement) · [Nouveautés](CHANGELOG.md) · [Signaler un problème](https://github.com/Julhid/muvixa-releases/issues/new/choose)
 
@@ -32,6 +33,7 @@
 - [Premiers pas](#premiers-pas)
 - [Confidentialité](#confidentialité)
 - [Questions fréquentes](#questions-fréquentes)
+- [Soutenir le projet](#soutenir-le-projet)
 - [Sous le capot](#sous-le-capot)
 - [Contenu de ce dépôt](#contenu-de-ce-dépôt)
 
@@ -178,6 +180,14 @@ Au lancement suivant, un écran affiche le détail du problème. Sur TV, scanne 
 
 Si MUVIXA indique que l'adresse « renvoie vers 127.0.0.1 », un DNS privé ou un bloqueur de publicités la filtre sur ton appareil. Désactive-le le temps de l'ajout, ou demande une autre adresse à ton fournisseur.
 </details>
+
+## Soutenir le projet
+
+MUVIXA est gratuite et sans publicité. Si elle te plaît, tu peux offrir un café pour soutenir son développement : c'est facultatif, et l'appli reste entièrement gratuite.
+
+<a href="https://ko-fi.com/muvixa"><img src="https://img.shields.io/badge/Ko--fi-Offre--moi%20un%20caf%C3%A9-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Offre-moi un café sur Ko-fi"></a>
+
+<sub>Un don soutient le développement de l'application, pas un contenu : MUVIXA ne fournit aucune chaîne.</sub>
 
 ## Sous le capot
 

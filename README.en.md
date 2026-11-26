@@ -12,6 +12,7 @@
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](#installation)
 [![Android TV](https://img.shields.io/badge/Android%20TV-compatible-22D3EE?logo=android&logoColor=white)](#on-an-android-tv)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)](#under-the-hood)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/muvixa)
 
 [**Download**](#download) · [Changelog (French)](CHANGELOG.md) · [Report an issue](https://github.com/Julhid/muvixa-releases/issues/new/choose)
 
@@ -35,6 +36,7 @@
 - [Getting started](#getting-started)
 - [Privacy](#privacy)
 - [FAQ](#faq)
+- [Support the project](#support-the-project)
 - [Under the hood](#under-the-hood)
 - [What's in this repository](#whats-in-this-repository)
 
@@ -180,6 +182,14 @@ On the next launch, a screen shows what went wrong. On a TV, scan the QR code wi
 
 If MUVIXA says the address "points to 127.0.0.1", a private DNS or an ad blocker is filtering it on your device. Turn it off while adding the source, or ask your provider for another address.
 </details>
+
+## Support the project
+
+MUVIXA is free and ad-free. If you like it, you can buy me a coffee to support its development: it's entirely optional, and the app stays completely free.
+
+<a href="https://ko-fi.com/muvixa"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a coffee on Ko-fi"></a>
+
+<sub>A donation supports the app's development, not any content: MUVIXA provides no channels.</sub>
 
 ## Under the hood
 
