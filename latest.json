@@ -1,9 +1,9 @@
 {
-  "versionCode": 3280,
-  "versionName": "3.28",
-  "notes": "Séries : le bouton « Passer le générique » ne reste plus affiché que 12 secondes. L'épisode suivant est proposé dès le début du générique de fin (même quand la vidéo n'indique pas sa durée), puis lancé tout seul après 10 s ; quand tu appuies sur « Lire » pendant le générique, MUVIXA retient où il commence pour les épisodes suivants de la série.",
+  "versionCode": 3290,
+  "versionName": "3.29",
+  "notes": "Direct : si une chaîne saccade, MUVIXA passe tout seul à une version plus légère (FHD → HD → SD) et la garde 30 minutes. Recherche : les programmes du guide TV des 7 prochains jours apparaissent aussi (« PSG », un film…), avec rappel ou enregistrement en un geste. Lecteur sur téléphone : glisser horizontalement pour avancer/reculer, ou changer de chaîne en direct.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.28-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.28-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.29-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.29-armeabi-v7a.apk"
   }
 }

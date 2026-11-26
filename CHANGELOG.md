@@ -2,6 +2,13 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.29 – 2026-11-26
+
+### Ajouté
+- Qualité automatique du direct : bascule vers une version plus légère de la même chaîne en cas de saccades, gardée 30 minutes.
+- Recherche dans le guide TV : programmes en cours et des 7 prochains jours, avec rappel ou enregistrement.
+- Lecteur sur téléphone : glisser horizontalement pour avancer ou reculer, ou pour changer de chaîne en direct.
+
 ## 3.28 – 2026-11-26
 
 ### Modifié
