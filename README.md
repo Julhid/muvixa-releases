@@ -39,10 +39,10 @@
 
 <div align="center">
 
-[![Télécharger pour téléphone et box récente](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20box%20r%C3%A9cente-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.30-arm64-v8a.apk)
-[![Télécharger pour TV Android](https://img.shields.io/badge/TV%20Android%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.30-armeabi-v7a.apk)
+[![Télécharger pour téléphone et box récente](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20box%20r%C3%A9cente-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-arm64-v8a.apk)
+[![Télécharger pour TV Android](https://img.shields.io/badge/TV%20Android%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-armeabi-v7a.apk)
 
-<sub>Version 3.30 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
+<sub>Version 3.31 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
 
 </div>
 
@@ -104,7 +104,7 @@
 - **Chromecast**, image dans l'image, incrustation d'une deuxième chaîne, **mosaïque** jusqu'à 4 chaînes, Assistant Google.
 - Synchronisation des favoris, profils et reprises entre tes appareils.
 - Rangées MUVIXA sur l'écran d'accueil d'Android TV (favoris, TNT, à l'affiche, reprise de lecture).
-- Interface **en français ou en anglais** (suit la langue de l'appareil, réglable).
+- Interface en **8 langues** : français, anglais, espagnol, allemand, italien, portugais, néerlandais et polonais (suit la langue de l'appareil, réglable).
 - Démarrage automatique avec la TV, thèmes de couleurs, statistiques de visionnage.
 
 ## Installation
@@ -123,7 +123,7 @@
 
 ### Sur une TV Android
 1. Installe une appli de téléchargement depuis le Play Store de la TV (par exemple *Downloader*), ou copie l'APK sur une clé USB.
-2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.30-armeabi-v7a.apk`
+2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-armeabi-v7a.apk`
 3. Autorise l'installation d'applis inconnues pour cette appli quand la TV le demande.
 
 ### Mises à jour

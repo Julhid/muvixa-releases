@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.31 – 2026-11-26
+
+- Interface disponible en espagnol, allemand, italien, portugais, néerlandais et polonais (en plus du français et de l'anglais). La langue suit celle de l'appareil, réglable dans Sources & réglages.
+- Jours et mois affichés dans la langue choisie (guide TV, statistiques, rappels).
+- Widget traduit dans les 8 langues.
+
 ## 3.30 – 2026-11-26
 
 ### Ajouté

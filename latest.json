@@ -1,9 +1,9 @@
 {
-  "versionCode": 3300,
-  "versionName": "3.30",
-  "notes": "Nouveau : « À regarder plus tard » (bouton sur les fiches, rangée sur l'accueil, retiré tout seul une fois vu) ; suggestions « Parce que tu as regardé… » propres à chaque profil ; widget pour l'écran d'accueil du téléphone (reprendre la lecture et 4 chaînes favorites).",
+  "versionCode": 3310,
+  "versionName": "3.31",
+  "notes": "Interface en 8 langues : espagnol, allemand, italien, portugais, néerlandais et polonais ajoutés.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.30-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.30-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.31-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.31-armeabi-v7a.apk"
   }
 }
