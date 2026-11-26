@@ -33,6 +33,7 @@
 - [Premiers pas](#premiers-pas)
 - [Confidentialité](#confidentialité)
 - [Questions fréquentes](#questions-fréquentes)
+- [Remerciements](#remerciements)
 - [Soutenir le projet](#soutenir-le-projet)
 - [Sous le capot](#sous-le-capot)
 - [Contenu de ce dépôt](#contenu-de-ce-dépôt)
@@ -180,6 +181,14 @@ Au lancement suivant, un écran affiche le détail du problème. Sur TV, scanne 
 
 Si MUVIXA indique que l'adresse « renvoie vers 127.0.0.1 », un DNS privé ou un bloqueur de publicités la filtre sur ton appareil. Désactive-le le temps de l'ajout, ou demande une autre adresse à ton fournisseur.
 </details>
+
+## Remerciements
+
+Un grand merci aux testeurs, dont les retours ont façonné MUVIXA version après version :
+
+**cacou13** · **cmoi_joe** · **jaja0131** · **visiteur57**
+
+<sub>Toi aussi tu testes MUVIXA ? [Signale un problème ou propose une idée](https://github.com/Julhid/muvixa-releases/issues/new/choose).</sub>
 
 ## Soutenir le projet
 

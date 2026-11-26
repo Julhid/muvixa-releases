@@ -36,6 +36,7 @@
 - [Getting started](#getting-started)
 - [Privacy](#privacy)
 - [FAQ](#faq)
+- [Thanks](#thanks)
 - [Support the project](#support-the-project)
 - [Under the hood](#under-the-hood)
 - [What's in this repository](#whats-in-this-repository)
@@ -182,6 +183,14 @@ On the next launch, a screen shows what went wrong. On a TV, scan the QR code wi
 
 If MUVIXA says the address "points to 127.0.0.1", a private DNS or an ad blocker is filtering it on your device. Turn it off while adding the source, or ask your provider for another address.
 </details>
+
+## Thanks
+
+A big thank-you to the testers whose feedback shaped MUVIXA, release after release:
+
+**cacou13** · **cmoi_joe** · **jaja0131** · **visiteur57**
+
+<sub>Testing MUVIXA too? [Report a problem or suggest an idea](https://github.com/Julhid/muvixa-releases/issues/new/choose).</sub>
 
 ## Support the project
 
