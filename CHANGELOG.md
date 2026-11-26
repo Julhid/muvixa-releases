@@ -2,6 +2,14 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.35 – 2026-11-26
+
+- Profils : le nom se modifie (crayon à côté de « Mon profil »).
+- Bouton « Quitter MUVIXA » aussi sur téléphone, en bas de l'onglet Plus.
+- Catégories : « Tout afficher » affiche aussi toutes les langues quand le filtre « Français de France » est actif (avant, rien ne changeait).
+- Comptes Xtream ajoutés depuis la télécommande web : format choisi automatiquement, comme dans l'appli.
+- Derniers textes non traduits (codes de profil, recherche vocale, notification de lecture…).
+
 ## 3.34 – 2026-11-26
 
 - Avatar photo : dans Profils, touche 📷 pour choisir une photo de ta galerie. Elle est recadrée, allégée, et suit ton profil sur tes appareils synchronisés (TV comprise).

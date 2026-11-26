@@ -1,9 +1,9 @@
 {
-  "versionCode": 3340,
-  "versionName": "3.34",
-  "notes": "Avatar personnalisé : choisis une photo de ton téléphone pour ton profil.",
+  "versionCode": 3350,
+  "versionName": "3.35",
+  "notes": "Renommer un profil, bouton Quitter aussi sur téléphone, « Tout afficher » corrigé, textes restants traduits.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.34-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.34-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.35-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.35-armeabi-v7a.apk"
   }
 }
