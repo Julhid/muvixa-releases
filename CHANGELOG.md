@@ -2,6 +2,13 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.39 – 2026-11-26
+
+- Séries : les épisodes déjà vus ont une pastille verte ✓. Appui long sur un épisode pour le marquer « vu » ou « non vu ». Suit le profil sur les appareils synchronisés.
+- La fiche d'une série propose le premier épisode pas encore vu.
+- Historique : nouveau bouton « Effacer l'historique des chaînes » (les chaînes disparaissent aussi de « Récemment » sur l'accueil).
+- Correctif : un film ou un épisode terminé pouvait réapparaître dans « Continuer » après une synchronisation.
+
 ## 3.38 – 2026-11-26
 
 - Historique : dans Sources & réglages, deux boutons « Effacer l'historique des films » et « Effacer l'historique des séries ». Les titres en cours disparaissent aussi de « Continuer » sur l'accueil, et ne reviennent pas avec la synchronisation.

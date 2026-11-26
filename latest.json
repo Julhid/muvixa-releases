@@ -1,9 +1,9 @@
 {
-  "versionCode": 3380,
-  "versionName": "3.38",
-  "notes": "Effacer l'historique des films et des séries (il disparaît aussi de l'accueil).",
+  "versionCode": 3390,
+  "versionName": "3.39",
+  "notes": "Épisodes vus marqués d'une pastille verte (appui long pour changer), effacer l'historique des chaînes.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.38-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.38-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.39-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.39-armeabi-v7a.apk"
   }
 }
