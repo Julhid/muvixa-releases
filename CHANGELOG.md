@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.24 – 2026-11-26
+
+### Ajouté
+- Sur TV, téléchargement automatique des mises à jour en arrière-plan (jamais pendant une lecture), puis installation en un clic.
+- Accueil Android TV : rangées « MUVIXA · TNT » et « MUVIXA · À l'affiche », en plus des favoris et de « Continuer à regarder ».
+
 ## 3.23 – 2026-11-26
 
 ### Corrigé

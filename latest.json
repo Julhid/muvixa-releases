@@ -1,9 +1,9 @@
 {
-  "versionCode": 3230,
-  "versionName": "3.23",
-  "notes": "Correctif urgent : la 3.22 plantait à l'ouverture sur Android (règle de tri des titres refusée par le système). Nouveau : présentation guidée au premier lancement (langue, abonnement, appareils) ; sur la télécommande, taper 1 à 26 ouvre la chaîne TNT correspondante (1 = TF1) ; sur TV, le rapport de plantage s'affiche en QR code à scanner avec le téléphone.",
+  "versionCode": 3240,
+  "versionName": "3.24",
+  "notes": "Sur TV, les mises à jour se téléchargent toutes seules en arrière-plan (jamais pendant une lecture) : il ne reste qu'à appuyer sur « Installer ». Deux nouvelles rangées sur l'accueil d'Android TV : la TNT et « À l'affiche ».",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.23-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.23-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.24-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.24-armeabi-v7a.apk"
   }
 }
