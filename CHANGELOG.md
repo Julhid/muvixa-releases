@@ -2,6 +2,16 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.32 – 2026-11-26
+
+- Télécommande : la présentation du premier lancement répond enfin aux flèches (le menu caché dessous gardait le focus). Le premier choix est sélectionné d'office.
+- Champs de saisie : haut et bas en sortent, et le champ actif est entouré (on n'y reste plus bloqué sur les box).
+- Plusieurs fournisseurs : choix de la source (Toutes, ou une seule) en haut du direct, des films et des séries.
+- Bouton Quitter dans le menu, sur TV et box.
+- Ajout des liens depuis un ordinateur : l'adresse du clavier distant s'affiche à côté du QR code.
+- Guide TV plus rapide : sources lues en même temps, dates lues bien plus vite, chaînes inutiles ignorées.
+- Page de téléchargement : sur TV et box, toujours la version armeabi-v7a.
+
 ## 3.31 – 2026-11-26
 
 - Interface disponible en espagnol, allemand, italien, portugais, néerlandais et polonais (en plus du français et de l'anglais). La langue suit celle de l'appareil, réglable dans Sources & réglages.

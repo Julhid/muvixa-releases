@@ -1,9 +1,9 @@
 {
-  "versionCode": 3310,
-  "versionName": "3.31",
-  "notes": "Interface en 8 langues : espagnol, allemand, italien, portugais, néerlandais et polonais ajoutés.",
+  "versionCode": 3320,
+  "versionName": "3.32",
+  "notes": "Télécommande : présentation et champs de saisie utilisables sur toutes les box. Choix de la source en haut du direct, des films et des séries. Bouton Quitter sur TV. Guide TV plus rapide.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.31-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.31-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.32-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.32-armeabi-v7a.apk"
   }
 }

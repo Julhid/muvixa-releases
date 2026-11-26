@@ -42,10 +42,10 @@
 
 <div align="center">
 
-[![Download for phones and recent boxes](https://img.shields.io/badge/Phone%20%26%20recent%20box-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-arm64-v8a.apk)
-[![Download for Android TV](https://img.shields.io/badge/Android%20TV%20%26%20older%20devices-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-armeabi-v7a.apk)
+[![Download for phones and tablets](https://img.shields.io/badge/Phone%20%26%20tablet-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.32-arm64-v8a.apk)
+[![Download for TVs and boxes](https://img.shields.io/badge/TV%2C%20box%20%26%20older%20devices-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.32-armeabi-v7a.apk)
 
-<sub>Version 3.31 · Android 7.0 or later · [which file should I pick?](#installation)</sub>
+<sub>Version 3.32 · Android 7.0 or later · [which file should I pick?](#installation)</sub>
 
 </div>
 
@@ -113,11 +113,11 @@
 
 | Your device | File to download |
 | --- | --- |
-| Recent phone or tablet, recent TV box | `MUVIXA-x.y-arm64-v8a.apk` |
-| Android TV (Xiaomi, TCL, Philips…), TV stick, older device | `MUVIXA-x.y-armeabi-v7a.apk` |
+| Recent phone or tablet | `MUVIXA-x.y-arm64-v8a.apk` |
+| Android TV (Xiaomi, TCL, Philips…), TV box (including operator boxes), TV stick, older device | `MUVIXA-x.y-armeabi-v7a.apk` |
 
 > [!TIP]
-> If in doubt on a TV, pick **armeabi-v7a**: it also runs on recent devices.
+> On a TV or a box, **always pick armeabi-v7a**: many boxes have a 64-bit processor but a 32-bit Android, and refuse the arm64 build. This build also runs on most phones.
 
 ### On a phone or tablet
 1. Download the APK from the [Download](#download) section.
@@ -125,7 +125,7 @@
 
 ### On an Android TV
 1. Install a downloader app from the TV's Play Store (for example *Downloader*), or copy the APK to a USB stick.
-2. Open this link and launch the downloaded file: `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-armeabi-v7a.apk`
+2. Open this link and launch the downloaded file: `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.32-armeabi-v7a.apk`
 3. Allow installing unknown apps for that app when the TV asks.
 
 ### Updates

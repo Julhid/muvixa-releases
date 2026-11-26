@@ -39,10 +39,10 @@
 
 <div align="center">
 
-[![Télécharger pour téléphone et box récente](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20box%20r%C3%A9cente-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-arm64-v8a.apk)
-[![Télécharger pour TV Android](https://img.shields.io/badge/TV%20Android%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-armeabi-v7a.apk)
+[![Télécharger pour téléphone et tablette](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20tablette-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.32-arm64-v8a.apk)
+[![Télécharger pour TV et box](https://img.shields.io/badge/TV%2C%20box%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.32-armeabi-v7a.apk)
 
-<sub>Version 3.31 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
+<sub>Version 3.32 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
 
 </div>
 
@@ -111,11 +111,11 @@
 
 | Ton appareil | Fichier à prendre |
 | --- | --- |
-| Téléphone ou tablette récents, box TV récente | `MUVIXA-x.y-arm64-v8a.apk` |
-| Téléviseur Android (Xiaomi, TCL, Philips…), clé TV, appareil ancien | `MUVIXA-x.y-armeabi-v7a.apk` |
+| Téléphone ou tablette récents | `MUVIXA-x.y-arm64-v8a.apk` |
+| Téléviseur Android (Xiaomi, TCL, Philips…), box TV (y compris box opérateur SFR, Bouygues, Free…), clé TV, appareil ancien | `MUVIXA-x.y-armeabi-v7a.apk` |
 
 > [!TIP]
-> En cas de doute sur une TV, prends **armeabi-v7a** : cette version fonctionne aussi sur les appareils récents.
+> Sur une TV ou une box, prends **toujours armeabi-v7a** : beaucoup de box ont un processeur 64 bits mais un Android 32 bits, et refusent la version arm64. Cette version fonctionne aussi sur la plupart des téléphones.
 
 ### Sur un téléphone ou une tablette
 1. Télécharge l'APK depuis la section [Téléchargement](#téléchargement).
@@ -123,7 +123,7 @@
 
 ### Sur une TV Android
 1. Installe une appli de téléchargement depuis le Play Store de la TV (par exemple *Downloader*), ou copie l'APK sur une clé USB.
-2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.31-armeabi-v7a.apk`
+2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.32-armeabi-v7a.apk`
 3. Autorise l'installation d'applis inconnues pour cette appli quand la TV le demande.
 
 ### Mises à jour
