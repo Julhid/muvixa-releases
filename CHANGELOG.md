@@ -2,6 +2,10 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.38 – 2026-11-26
+
+- Historique : dans Sources & réglages, deux boutons « Effacer l'historique des films » et « Effacer l'historique des séries ». Les titres en cours disparaissent aussi de « Continuer » sur l'accueil, et ne reviennent pas avec la synchronisation.
+
 ## 3.37 – 2026-11-26
 
 - Qualité des chaînes : dans Sources & réglages › Lecture, choisis Automatique, 4K, Full HD, HD, SD ou HEVC. La TNT et toutes les chaînes en plusieurs versions suivent ce choix (HD ou SD pour l'ADSL).
