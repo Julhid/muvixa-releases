@@ -2,6 +2,10 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.43 – 2026-11-27
+
+- Logo unifié : l'en-tête, le menu latéral sur TV, l'écran de démarrage et la présentation affichent maintenant le vrai logo MUVIXA, identique à l'icône de l'appli.
+
 ## 3.42 – 2026-11-27
 
 - Télécommande : le menu d'un épisode (OK maintenu) s'ouvre au relâchement et reste affiché (il se refermait aussitôt).

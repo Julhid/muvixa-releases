@@ -1,9 +1,9 @@
 {
-  "versionCode": 3420,
-  "versionName": "3.42",
-  "notes": "Menu des épisodes à la télécommande corrigé, défilement de « À propos » et des statistiques à la télécommande, page GitHub et captures mises à jour.",
+  "versionCode": 3430,
+  "versionName": "3.43",
+  "notes": "Le logo dans l'appli est maintenant le même que l'icône (en-tête, menu TV, écran de démarrage, accueil).",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.42-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.42-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.43-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.43-armeabi-v7a.apk"
   }
 }
