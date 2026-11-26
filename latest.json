@@ -1,9 +1,9 @@
 {
-  "versionCode": 3240,
-  "versionName": "3.24",
-  "notes": "Sur TV, les mises à jour se téléchargent toutes seules en arrière-plan (jamais pendant une lecture) : il ne reste qu'à appuyer sur « Installer ». Deux nouvelles rangées sur l'accueil d'Android TV : la TNT et « À l'affiche ».",
+  "versionCode": 3250,
+  "versionName": "3.25",
+  "notes": "Films et séries rangés sur le stockage plutôt qu'en mémoire : seuls les titres affichés sont lus. Même avec toutes les langues et plusieurs gros abonnements, la mémoire reste faible (fini les plantages sur TV). À la première ouverture, le rangement se fait en arrière-plan (une pastille l'indique) : les films apparaissent dès qu'il est terminé.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.24-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.24-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.25-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.25-armeabi-v7a.apk"
   }
 }

@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.25 – 2026-11-26
+
+### Modifié
+- Films et séries rangés sur le stockage (base SQLite) au lieu de la mémoire : listes lues page par page, recherche, tris et catégories calculés par la base. La mémoire ne dépend plus de la taille des abonnements.
+- Première ouverture : rangement en arrière-plan, signalé par une pastille.
+
 ## 3.24 – 2026-11-26
 
 ### Ajouté
