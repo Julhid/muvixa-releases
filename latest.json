@@ -1,9 +1,9 @@
 {
-  "versionCode": 3260,
-  "versionName": "3.26",
-  "notes": "Films à emporter : télécharge un film, un épisode ou une saison entière pour les regarder sans connexion (Plus › Hors ligne). Un téléchargement à la fois, repris là où il s'était arrêté, et mis en pause tout seul pendant que tu regardes un programme en ligne.",
+  "versionCode": 3270,
+  "versionName": "3.27",
+  "notes": "MUVIXA parle anglais : l'interface suit la langue de l'appareil (français ou anglais), et se règle dans Sources & réglages › Langue. MUVIXA now speaks English: the interface follows your device language and can be changed in settings.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.26-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.26-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.27-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.27-armeabi-v7a.apk"
   }
 }

@@ -24,7 +24,7 @@
 > You use it with your own subscriptions (M3U link or Xtream Codes access), in compliance with broadcasting rights.
 
 > [!NOTE]
-> The app interface is in **French**, and by default it shows French-language content from your sources. You can display every language in the settings.
+> The interface is available in **English and French** (it follows your device language). Content from every language of your sources can be shown; French-only mode is available in the settings.
 
 ## Contents
 
@@ -42,10 +42,10 @@
 
 <div align="center">
 
-[![Download for phones and recent boxes](https://img.shields.io/badge/Phone%20%26%20recent%20box-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.26-arm64-v8a.apk)
-[![Download for Android TV](https://img.shields.io/badge/Android%20TV%20%26%20older%20devices-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.26-armeabi-v7a.apk)
+[![Download for phones and recent boxes](https://img.shields.io/badge/Phone%20%26%20recent%20box-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.27-arm64-v8a.apk)
+[![Download for Android TV](https://img.shields.io/badge/Android%20TV%20%26%20older%20devices-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.27-armeabi-v7a.apk)
 
-<sub>Version 3.26 · Android 7.0 or later · [which file should I pick?](#installation)</sub>
+<sub>Version 3.27 · Android 7.0 or later · [which file should I pick?](#installation)</sub>
 
 </div>
 
@@ -90,6 +90,7 @@
 - **One card per movie or series**, even when several sources have it; if one source doesn't respond, MUVIXA moves to the next one on its own.
 - **Next episode played automatically** during the end credits, seasons chained, "Skip credits".
 - Running time, end time, resume where you left off, even from another device.
+- **Offline**: download a movie, an episode or a whole season to watch without a connection.
 - Similar suggestions at the end of a movie, series follow-up with new-episode notifications.
 
 ### ⚡ Playback that holds up
@@ -105,6 +106,7 @@
 - **Your phone becomes a remote** (QR code), and the "On the TV" button starts a movie from the phone on the television.
 - **Chromecast**, picture-in-picture, second-channel overlay, **multiview** up to 4 channels, Google Assistant.
 - Favourites, profiles and playback positions synced across your devices.
+- MUVIXA rows on the Android TV home screen (favourites, French TV, new releases, continue watching).
 - Starts with the TV, colour themes, viewing statistics.
 
 ## Installation
@@ -123,11 +125,11 @@
 
 ### On an Android TV
 1. Install a downloader app from the TV's Play Store (for example *Downloader*), or copy the APK to a USB stick.
-2. Open this link and launch the downloaded file: `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.26-armeabi-v7a.apk`
+2. Open this link and launch the downloaded file: `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.27-armeabi-v7a.apk`
 3. Allow installing unknown apps for that app when the TV asks.
 
 ### Updates
-MUVIXA checks for new versions on its own and offers them to you. They install over the old one without losing your settings.
+MUVIXA checks for new versions on its own and offers them to you. On TV, they are even downloaded in the background: just press "Install". They install over the old one without losing your settings.
 
 ## Getting started
 

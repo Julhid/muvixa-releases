@@ -39,10 +39,10 @@
 
 <div align="center">
 
-[![Télécharger pour téléphone et box récente](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20box%20r%C3%A9cente-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.26-arm64-v8a.apk)
-[![Télécharger pour TV Android](https://img.shields.io/badge/TV%20Android%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.26-armeabi-v7a.apk)
+[![Télécharger pour téléphone et box récente](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20box%20r%C3%A9cente-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.27-arm64-v8a.apk)
+[![Télécharger pour TV Android](https://img.shields.io/badge/TV%20Android%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.27-armeabi-v7a.apk)
 
-<sub>Version 3.26 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
+<sub>Version 3.27 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
 
 </div>
 
@@ -87,6 +87,7 @@
 - **Une seule fiche par film ou série**, même présents chez plusieurs sources ; si une source ne répond pas, MUVIXA passe à la suivante tout seul.
 - **Épisode suivant automatique** pendant le générique, enchaînement des saisons, « Passer le générique ».
 - Durée, heure de fin, reprise là où tu t'étais arrêté, même depuis un autre appareil.
+- **Hors ligne** : télécharge un film, un épisode ou une saison entière pour les regarder sans connexion.
 - Suggestions du même genre à la fin d'un film, suivi des séries avec notification des nouveaux épisodes.
 
 ### ⚡ Une lecture qui tient
@@ -102,6 +103,8 @@
 - **Le téléphone devient une télécommande** (QR code), et le bouton « Sur la TV » lance un film du téléphone sur le téléviseur.
 - **Chromecast**, image dans l'image, incrustation d'une deuxième chaîne, **mosaïque** jusqu'à 4 chaînes, Assistant Google.
 - Synchronisation des favoris, profils et reprises entre tes appareils.
+- Rangées MUVIXA sur l'écran d'accueil d'Android TV (favoris, TNT, à l'affiche, reprise de lecture).
+- Interface **en français ou en anglais** (suit la langue de l'appareil, réglable).
 - Démarrage automatique avec la TV, thèmes de couleurs, statistiques de visionnage.
 
 ## Installation
@@ -120,11 +123,11 @@
 
 ### Sur une TV Android
 1. Installe une appli de téléchargement depuis le Play Store de la TV (par exemple *Downloader*), ou copie l'APK sur une clé USB.
-2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.26-armeabi-v7a.apk`
+2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.27-armeabi-v7a.apk`
 3. Autorise l'installation d'applis inconnues pour cette appli quand la TV le demande.
 
 ### Mises à jour
-MUVIXA vérifie toute seule s'il existe une nouvelle version et te la propose. Elle s'installe par-dessus l'ancienne, sans perdre tes réglages.
+MUVIXA vérifie toute seule s'il existe une nouvelle version et te la propose. Sur TV, elle est même téléchargée en arrière-plan : il ne reste qu'à appuyer sur « Installer ». Elle s'installe par-dessus l'ancienne, sans perdre tes réglages.
 
 ## Premiers pas
 

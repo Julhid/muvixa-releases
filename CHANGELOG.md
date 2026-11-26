@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.27 – 2026-11-26
+
+### Ajouté
+- Interface en anglais : suit la langue de l'appareil, réglable dans Sources & réglages (Langue · Language).
+- En anglais, tout le catalogue est affiché par défaut au premier lancement.
+
 ## 3.26 – 2026-11-26
 
 ### Ajouté
