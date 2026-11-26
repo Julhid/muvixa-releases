@@ -2,6 +2,10 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.34 – 2026-11-26
+
+- Avatar photo : dans Profils, touche 📷 pour choisir une photo de ta galerie. Elle est recadrée, allégée, et suit ton profil sur tes appareils synchronisés (TV comprise).
+
 ## 3.33 – 2026-11-26
 
 - Pays et langues en plus du français : dans Plus › Catégories, toucher un pays (Espagne, Italie…) l'ajoute au français, chaînes, films et séries compris. Avant, il restait vide quand « Français de France uniquement » était actif.
