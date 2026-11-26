@@ -42,10 +42,10 @@
 
 <div align="center">
 
-[![Télécharger pour téléphone et tablette](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20tablette-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.41-arm64-v8a.apk)
-[![Télécharger pour TV et box](https://img.shields.io/badge/TV%2C%20box%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.41-armeabi-v7a.apk)
+[![Télécharger pour téléphone et tablette](https://img.shields.io/badge/T%C3%A9l%C3%A9phone%20%26%20tablette-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.42-arm64-v8a.apk)
+[![Télécharger pour TV et box](https://img.shields.io/badge/TV%2C%20box%20%26%20appareil%20ancien-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.42-armeabi-v7a.apk)
 
-<sub>Version 3.41 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
+<sub>Version 3.42 · Android 7.0 ou plus · [quel fichier choisir ?](#installation)</sub>
 
 </div>
 
@@ -77,7 +77,8 @@
 
 ### 📺 Le direct, rangé comme une box
 - **TNT en premier**, avec la numérotation officielle : tape `1` sur la télécommande pour la première chaîne, `6` pour la sixième…
-- **Une seule version par chaîne** : les variantes SD, HD, FHD ou 4K sont regroupées, la meilleure qualité est choisie et les autres servent de secours.
+- **Une seule version par chaîne** : les variantes SD, HD, FHD, 4K ou HEVC sont regroupées. Tu choisis la **qualité préférée** (Automatique, 4K, Full HD, HD, SD ou HEVC, pratique en ADSL), les autres servent de secours ; une chaîne qui saccade passe d'elle-même à une version plus légère.
+- **Plusieurs abonnements** : en haut du direct, des films et des séries, choisis la **source** affichée (toutes ou une seule) et le **pays** (France, Espagne, Italie…).
 - Thèmes (info, sport, cinéma, jeunesse, découverte, musique), bouquets des opérateurs et regroupement par plateforme.
 - Les catégories d'origine de ton fournisseur restent accessibles, rangées à part.
 - Liste des chaînes et bandeau d'informations sans quitter l'image, zapping avec les flèches, chaîne précédente.
@@ -88,7 +89,9 @@
 ### 🎬 Films et séries, façon plateforme de streaming
 - Grande affiche qui défile, rangées simples : Box-office, Nouveautés, Les mieux notés, genres.
 - **Une seule fiche par film ou série**, même présents chez plusieurs sources ; si une source ne répond pas, MUVIXA passe à la suivante tout seul.
-- **Épisode suivant automatique** pendant le générique, enchaînement des saisons, « Passer le générique ».
+- **Épisode suivant automatique** pendant le générique (discret, sans couper la fin), enchaînement des saisons, « Passer le générique ».
+- **Épisodes vus** marqués d'une pastille verte, à changer d'un appui long ; la fiche d'une série propose le premier épisode pas encore vu.
+- **Historique effaçable** (films, séries, chaînes) : il disparaît aussi de l'accueil.
 - Durée, heure de fin, reprise là où tu t'étais arrêté, même depuis un autre appareil.
 - **Hors ligne** : télécharge un film, un épisode ou une saison entière pour les regarder sans connexion.
 - Suggestions du même genre à la fin d'un film, suivi des séries avec notification des nouveaux épisodes.
@@ -99,16 +102,19 @@
 - Reconnexion silencieuse quand le fournisseur coupe le flux, **sans passage répété** : le flux est recalé sur son horloge interne.
 - **Format du direct automatique** (MPEG-TS ou HLS) : MUVIXA mesure la fluidité et garde le meilleur, source par source.
 - Mémoire tampon qui s'adapte à chaque chaîne, prise en compte des abonnements limités à une connexion.
+- **Avance rapide à la télécommande** sur la barre de lecture, de plus en plus vite en restant appuyé (comme le replay des box opérateurs).
+- **Son compatible pour VLC** : une option pour les box qui affichent l'image d'un film sans le son.
 
 ### 🏠 Pour toute la maison
-- **Profils** avec avatar, code et contrôle parental ; profils enfants avec **temps d'écran**.
+- **Profils** avec avatar (emoji ou **photo** de ton téléphone), code et contrôle parental ; profils enfants avec **temps d'écran**.
 - **Français de France par défaut** : contenus étrangers masqués (réglable), ce qui allège beaucoup l'appli sur les TV.
-- **Le téléphone devient une télécommande** (QR code), et le bouton « Sur la TV » lance un film du téléphone sur le téléviseur.
+- **Le téléphone devient une télécommande** (QR code), et le bouton « Sur la TV » lance un film du téléphone sur le téléviseur. Tes liens s'ajoutent aussi **depuis un ordinateur**, en ouvrant l'adresse affichée sous le QR code.
 - **Chromecast**, image dans l'image, incrustation d'une deuxième chaîne, **mosaïque** jusqu'à 4 chaînes, Assistant Google.
 - Synchronisation des favoris, profils et reprises entre tes appareils.
 - Rangées MUVIXA sur l'écran d'accueil d'Android TV (favoris, TNT, à l'affiche, reprise de lecture).
 - Interface en **8 langues** : français, anglais, espagnol, allemand, italien, portugais, néerlandais et polonais (suit la langue de l'appareil, réglable).
-- Démarrage automatique avec la TV, thèmes de couleurs, statistiques de visionnage.
+- **Validité de l'abonnement** bien visible (date de fin et jours restants), alerte avant l'expiration.
+- Démarrage automatique avec la TV, bouton Quitter, thèmes de couleurs, statistiques de visionnage.
 
 ## Installation
 
@@ -126,7 +132,7 @@
 
 ### Sur une TV Android
 1. Installe une appli de téléchargement depuis le Play Store de la TV (par exemple *Downloader*), ou copie l'APK sur une clé USB.
-2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.41-armeabi-v7a.apk`
+2. Ouvre ce lien et lance le fichier téléchargé : `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.42-armeabi-v7a.apk`
 3. Autorise l'installation d'applis inconnues pour cette appli quand la TV le demande.
 
 ### Mises à jour
@@ -171,6 +177,18 @@ Par défaut, seuls les contenus en français de France et multilingues sont affi
 </details>
 
 <details>
+<summary><b>J'ai plusieurs abonnements : comment passer de l'un à l'autre ?</b></summary>
+
+En haut du Direct, des Films et des Séries, la ligne « Source » permet de tout voir réuni ou un seul abonnement. Le choix est propre à chaque appareil : pratique pour garder un abonnement par TV et éviter les « sessions déjà ouvertes ».
+</details>
+
+<details>
+<summary><b>Une série a l'image mais pas le son</b></summary>
+
+Active Plus › Sources & réglages › Lecture › « Son compatible pour VLC », puis relance l'épisode. Si besoin, essaie les autres pistes dans « Pistes audio ». En Chromecast, c'est le récepteur de la TV qui lit la vidéo : certains formats (MKV, son AC3/DTS) n'y passent pas, installe plutôt MUVIXA sur la TV ou la box.
+</details>
+
+<details>
 <summary><b>L'appli s'est fermée</b></summary>
 
 Au lancement suivant, un écran affiche le détail du problème. Sur TV, scanne le QR code avec ton téléphone, puis [ouvre un ticket](https://github.com/Julhid/muvixa-releases/issues/new/choose) en y collant le rapport.
@@ -186,7 +204,7 @@ Si MUVIXA indique que l'adresse « renvoie vers 127.0.0.1 », un DNS privé ou u
 
 Un grand merci aux testeurs, dont les retours ont façonné MUVIXA version après version :
 
-**cacou13** · **cmoi_joe** · **jaja0131** · **visiteur57** · **Enzo**
+**cacou13** · **cmoi_joe** · **Enzo** · **jaja0131** · **visiteur57** · **Enzo**
 
 <sub>Toi aussi tu testes MUVIXA ? [Signale un problème ou propose une idée](https://github.com/Julhid/muvixa-releases/issues/new/choose).</sub>
 

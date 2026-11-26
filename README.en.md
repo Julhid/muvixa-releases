@@ -45,10 +45,10 @@
 
 <div align="center">
 
-[![Download for phones and tablets](https://img.shields.io/badge/Phone%20%26%20tablet-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.41-arm64-v8a.apk)
-[![Download for TVs and boxes](https://img.shields.io/badge/TV%2C%20box%20%26%20older%20devices-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.41-armeabi-v7a.apk)
+[![Download for phones and tablets](https://img.shields.io/badge/Phone%20%26%20tablet-arm64--v8a-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.42-arm64-v8a.apk)
+[![Download for TVs and boxes](https://img.shields.io/badge/TV%2C%20box%20%26%20older%20devices-armeabi--v7a-0891B2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.42-armeabi-v7a.apk)
 
-<sub>Version 3.41 · Android 7.0 or later · [which file should I pick?](#installation)</sub>
+<sub>Version 3.42 · Android 7.0 or later · [which file should I pick?](#installation)</sub>
 
 </div>
 
@@ -80,7 +80,8 @@
 
 ### 📺 Live TV, organised like a set-top box
 - **French national channels (TNT) first**, with their official numbering: type `1` on the remote for the first channel, `6` for the sixth…
-- **One entry per channel**: SD, HD, FHD and 4K variants are merged, the best quality is picked and the others are kept as fallbacks.
+- **One entry per channel**: SD, HD, FHD, 4K and HEVC variants are merged. Pick your **preferred quality** (Automatic, 4K, Full HD, HD, SD or HEVC, handy on slow DSL), the others are kept as fallbacks; a stuttering channel switches to a lighter version by itself.
+- **Several subscriptions**: at the top of Live TV, Movies and Series, choose the **source** shown (all or just one) and the **country** (France, Spain, Italy…).
 - Themes (news, sport, movies, kids, documentaries, music), operator bundles and grouping by streaming platform.
 - Your provider's original categories stay available, tucked away separately.
 - Channel list and info banner without leaving the picture, zapping with the arrow keys, previous channel.
@@ -91,7 +92,9 @@
 ### 🎬 Movies and series, streaming-platform style
 - Rotating hero banner and simple rows: Box office, New, Top rated, genres.
 - **One card per movie or series**, even when several sources have it; if one source doesn't respond, MUVIXA moves to the next one on its own.
-- **Next episode played automatically** during the end credits, seasons chained, "Skip credits".
+- **Next episode played automatically** during the end credits (discreet, without cutting the ending), seasons chained, "Skip credits".
+- **Watched episodes** marked with a green badge, toggled with a long press; a series page suggests the first episode you haven't seen.
+- **Clearable history** (movies, series, channels): it disappears from the home screen too.
 - Running time, end time, resume where you left off, even from another device.
 - **Offline**: download a movie, an episode or a whole season to watch without a connection.
 - Similar suggestions at the end of a movie, series follow-up with new-episode notifications.
@@ -102,15 +105,19 @@
 - Silent reconnection when the provider drops the stream, **with no repeated footage**: the stream is realigned on its internal clock.
 - **Automatic live format** (MPEG-TS or HLS): MUVIXA measures smoothness and keeps the best one, source by source.
 - Buffer that adapts to each channel, and support for subscriptions limited to one connection.
+- **Fast-forward with the remote** on the progress bar, faster and faster as you hold the key (like operator boxes' catch-up).
+- **Compatible sound for VLC**: an option for boxes that show a movie's picture without sound.
 
 ### 🏠 For the whole household
-- **Profiles** with avatar, PIN and parental control; kids profiles with **screen time**.
+- **Profiles** with avatar (emoji or a **photo** from your phone), PIN and parental control; kids profiles with **screen time**.
 - **French content by default**: other languages are hidden (configurable), which makes the app much lighter on TVs.
-- **Your phone becomes a remote** (QR code), and the "On the TV" button starts a movie from the phone on the television.
+- **Your phone becomes a remote** (QR code), and the "On the TV" button starts a movie from the phone on the television. You can also add your links **from a computer**, by opening the address shown under the QR code.
 - **Chromecast**, picture-in-picture, second-channel overlay, **multiview** up to 4 channels, Google Assistant.
 - Favourites, profiles and playback positions synced across your devices.
 - MUVIXA rows on the Android TV home screen (favourites, French TV, new releases, continue watching).
-- Starts with the TV, colour themes, viewing statistics.
+- Interface in **8 languages**: French, English, Spanish, German, Italian, Portuguese, Dutch and Polish.
+- **Subscription validity** clearly shown (end date and days left), with a reminder before it expires.
+- Starts with the TV, Quit button, colour themes, viewing statistics.
 
 ## Installation
 
@@ -128,7 +135,7 @@
 
 ### On an Android TV
 1. Install a downloader app from the TV's Play Store (for example *Downloader*), or copy the APK to a USB stick.
-2. Open this link and launch the downloaded file: `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.41-armeabi-v7a.apk`
+2. Open this link and launch the downloaded file: `https://github.com/Julhid/muvixa-releases/raw/main/apk/MUVIXA-3.42-armeabi-v7a.apk`
 3. Allow installing unknown apps for that app when the TV asks.
 
 ### Updates
@@ -173,6 +180,18 @@ By default, only French and multi-language content is shown. To see everything: 
 </details>
 
 <details>
+<summary><b>I have several subscriptions: how do I switch between them?</b></summary>
+
+At the top of Live TV, Movies and Series, the "Source" row lets you see everything together or a single subscription. The choice is per device: handy to keep one subscription per TV and avoid "session already open" errors.
+</details>
+
+<details>
+<summary><b>A series has picture but no sound</b></summary>
+
+Turn on More › Sources & settings › Playback › "Compatible sound for VLC", then restart the episode. If needed, try the other tracks in "Audio tracks". With Chromecast, the TV's receiver plays the video: some formats (MKV, AC3/DTS sound) won't play there, so install MUVIXA on the TV or box instead.
+</details>
+
+<details>
 <summary><b>The app closed unexpectedly</b></summary>
 
 On the next launch, a screen shows what went wrong. On a TV, scan the QR code with your phone, then [open an issue](https://github.com/Julhid/muvixa-releases/issues/new/choose) and paste the report.
@@ -188,7 +207,7 @@ If MUVIXA says the address "points to 127.0.0.1", a private DNS or an ad blocker
 
 A big thank-you to the testers whose feedback shaped MUVIXA, release after release:
 
-**cacou13** · **cmoi_joe** · **jaja0131** · **visiteur57**
+**cacou13** · **cmoi_joe** · **Enzo** · **jaja0131** · **visiteur57**
 
 <sub>Testing MUVIXA too? [Report a problem or suggest an idea](https://github.com/Julhid/muvixa-releases/issues/new/choose).</sub>
 

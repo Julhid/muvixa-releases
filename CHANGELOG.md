@@ -2,6 +2,13 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.42 – 2026-11-27
+
+- Télécommande : le menu d'un épisode (OK maintenu) s'ouvre au relâchement et reste affiché (il se refermait aussitôt).
+- Télécommande : les pages « À propos & soutien » et « Statistiques » défilent avec les flèches.
+- Remerciements : Enzo rejoint la liste des testeurs.
+- Page GitHub : fonctionnalités, questions fréquentes et captures d'écran mises à jour.
+
 ## 3.41 – 2026-11-26
 
 - Nouvel écran « À propos & soutien » (onglet Plus) : version, soutien du projet sur Ko-fi (QR code sur TV), remerciements aux testeurs, bibliothèques utilisées.

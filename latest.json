@@ -1,9 +1,9 @@
 {
-  "versionCode": 3410,
-  "versionName": "3.41",
-  "notes": "Écran « À propos & soutien », menu des épisodes à la télécommande, avance rapide plus douce.",
+  "versionCode": 3420,
+  "versionName": "3.42",
+  "notes": "Menu des épisodes à la télécommande corrigé, défilement de « À propos » et des statistiques à la télécommande, page GitHub et captures mises à jour.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.41-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.41-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.42-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.42-armeabi-v7a.apk"
   }
 }
