@@ -1,9 +1,9 @@
 {
-  "versionCode": 3360,
-  "versionName": "3.36",
-  "notes": "Choix du pays sous le choix de la source : les chaînes, films et séries espagnols, italiens… en un geste.",
+  "versionCode": 3370,
+  "versionName": "3.37",
+  "notes": "Choix de la qualité des chaînes (Full HD, HD, SD, HEVC, 4K), son compatible pour VLC, détail des pistes son.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.36-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.36-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.37-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.37-armeabi-v7a.apk"
   }
 }

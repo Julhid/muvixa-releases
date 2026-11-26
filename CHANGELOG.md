@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.37 – 2026-11-26
+
+- Qualité des chaînes : dans Sources & réglages › Lecture, choisis Automatique, 4K, Full HD, HD, SD ou HEVC. La TNT et toutes les chaînes en plusieurs versions suivent ce choix (HD ou SD pour l'ADSL).
+- Son compatible pour VLC : nouvelle option pour les box où un film ou une série a l'image sans le son.
+- Infos du flux (VLC) : chaque piste son est détaillée (nom, format, canaux), la piste en cours est marquée.
+
 ## 3.36 – 2026-11-26
 
 - Choix du pays : sous « Source », une ligne « Pays » (Tous · 🇫🇷 France · 🇪🇸 Espagne…) dans le Direct, les Films et les Séries. Elle n'apparaît que s'il y a plusieurs pays. La France est toujours en premier.
