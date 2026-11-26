@@ -1,9 +1,9 @@
 {
-  "versionCode": 3250,
-  "versionName": "3.25",
-  "notes": "Films et séries rangés sur le stockage plutôt qu'en mémoire : seuls les titres affichés sont lus. Même avec toutes les langues et plusieurs gros abonnements, la mémoire reste faible (fini les plantages sur TV). À la première ouverture, le rangement se fait en arrière-plan (une pastille l'indique) : les films apparaissent dès qu'il est terminé.",
+  "versionCode": 3260,
+  "versionName": "3.26",
+  "notes": "Films à emporter : télécharge un film, un épisode ou une saison entière pour les regarder sans connexion (Plus › Hors ligne). Un téléchargement à la fois, repris là où il s'était arrêté, et mis en pause tout seul pendant que tu regardes un programme en ligne.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.25-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.25-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.26-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.26-armeabi-v7a.apk"
   }
 }

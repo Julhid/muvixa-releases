@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.26 – 2026-11-26
+
+### Ajouté
+- Hors ligne : téléchargement de films, d'épisodes ou de saisons entières, lecture sans connexion (Plus › Hors ligne).
+- Reprise des téléchargements interrompus ; pause automatique pendant une lecture en ligne pour ne pas occuper la connexion de l'abonnement.
+
 ## 3.25 – 2026-11-26
 
 ### Modifié
