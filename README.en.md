@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.svg" width="120" alt="MUVIXA logo">
-
-# MUVIXA
+<img src="docs/banner-en.png" alt="MUVIXA — Your TV. Your content. Your rules. Live · Movies · Series · Everywhere">
 
 **The IPTV player designed like a set-top box: clear on your phone, comfortable on your TV.**
 

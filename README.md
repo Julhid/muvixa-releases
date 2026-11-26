@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.svg" width="120" alt="Logo MUVIXA">
-
-# MUVIXA
+<img src="docs/banniere.png" alt="MUVIXA — Votre TV. Vos contenus. Vos règles. Direct · Films · Séries · Partout">
 
 **Le lecteur IPTV pensé comme une box : clair sur téléphone, confortable sur TV.**
 
