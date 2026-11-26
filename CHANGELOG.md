@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.40 – 2026-11-26
+
+- Barre de lecture à la télécommande : ◀ ▶ avancent de plus en plus vite (10 s, 30 s, 1 min, 2 min, 5 min) en maintenant ou en appuyant plusieurs fois. La position visée s'affiche, la lecture y saute au relâchement.
+- Épisode suivant : petite carte discrète dans le coin, proposée plus tard (45 s avant la fin par défaut) pour ne plus couper la fin de l'épisode.
+- Appui long sur OK à la télécommande : marque un épisode vu / non vu (et l'incrustation d'une chaîne fonctionne aussi). L'icône de téléchargement ne prend plus le focus.
+
 ## 3.39 – 2026-11-26
 
 - Séries : les épisodes déjà vus ont une pastille verte ✓. Appui long sur un épisode pour le marquer « vu » ou « non vu ». Suit le profil sur les appareils synchronisés.
