@@ -1,9 +1,9 @@
 {
-  "versionCode": 3400,
-  "versionName": "3.40",
-  "notes": "Avance rapide à la télécommande sur la barre de lecture, épisode suivant plus discret et moins tôt, appui long à la télécommande.",
+  "versionCode": 3410,
+  "versionName": "3.41",
+  "notes": "Écran « À propos & soutien », menu des épisodes à la télécommande, avance rapide plus douce.",
   "apk": {
-    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.40-arm64-v8a.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.40-armeabi-v7a.apk"
+    "arm64-v8a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.41-arm64-v8a.apk",
+    "armeabi-v7a": "https://raw.githubusercontent.com/Julhid/muvixa-releases/main/apk/MUVIXA-3.41-armeabi-v7a.apk"
   }
 }

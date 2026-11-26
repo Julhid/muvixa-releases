@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.41 – 2026-11-26
+
+- Nouvel écran « À propos & soutien » (onglet Plus) : version, soutien du projet sur Ko-fi (QR code sur TV), remerciements aux testeurs, bibliothèques utilisées.
+- Épisodes à la télécommande : OK maintenu ouvre un petit menu (vu / non vu, télécharger l'épisode). Sur téléphone, l'appui long marque toujours directement vu / non vu.
+- Avance rapide sur la barre de lecture plus douce en restant appuyé : un pas toutes les 0,4 s, de 10 s jusqu'à 2 min au maximum.
+
 ## 3.40 – 2026-11-26
 
 - Barre de lecture à la télécommande : ◀ ▶ avancent de plus en plus vite (10 s, 30 s, 1 min, 2 min, 5 min) en maintenant ou en appuyant plusieurs fois. La position visée s'affiche, la lecture y saute au relâchement.
