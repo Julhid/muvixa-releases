@@ -186,7 +186,7 @@ Si MUVIXA indique que l'adresse « renvoie vers 127.0.0.1 », un DNS privé ou u
 
 Un grand merci aux testeurs, dont les retours ont façonné MUVIXA version après version :
 
-**cacou13** · **cmoi_joe** · **jaja0131** · **visiteur57**
+**cacou13** · **cmoi_joe** · **jaja0131** · **visiteur57** · **Enzo**
 
 <sub>Toi aussi tu testes MUVIXA ? [Signale un problème ou propose une idée](https://github.com/Julhid/muvixa-releases/issues/new/choose).</sub>
 
