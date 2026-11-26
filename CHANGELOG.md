@@ -2,6 +2,13 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.28 – 2026-11-26
+
+### Modifié
+- « Passer le générique » affiché 12 secondes seulement au début de l'épisode.
+- Épisode suivant proposé dès le début du générique de fin, y compris quand la vidéo n'annonce pas sa durée ; lancement automatique après 10 s.
+- Début du générique de fin appris pour chaque série quand on passe à l'épisode suivant.
+
 ## 3.27 – 2026-11-26
 
 ### Ajouté
