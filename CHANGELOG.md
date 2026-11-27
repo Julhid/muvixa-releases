@@ -2,6 +2,10 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.45 – 2026-11-27
+
+- Correctif : quand le fournisseur numérote plusieurs épisodes pareil (Kaamelott, compilations…), l'épisode suivant relançait toujours le même. MUVIXA suit maintenant l'ordre réel de la liste, et saute un « suivant » qui pointe sur le même fichier.
+
 ## 3.44 – 2026-11-27
 
 - Écran de démarrage animé aux couleurs de la bannière : le logo rebondit, « Votre TV. Vos contenus. Vos règles. », puis les icônes des appareils s'allument tour à tour pendant le chargement. Il ne rallonge jamais le chargement.
