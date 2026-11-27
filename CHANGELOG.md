@@ -2,6 +2,12 @@
 
 Toutes les évolutions notables de MUVIXA. Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 
+## 3.44 – 2026-11-27
+
+- Écran de démarrage animé aux couleurs de la bannière : le logo rebondit, « Votre TV. Vos contenus. Vos règles. », puis les icônes des appareils s'allument tour à tour pendant le chargement. Il ne rallonge jamais le chargement.
+- Épisode suivant : il ne démarre plus avant la fin de l'épisode. La carte « Épisode suivant » apparaît pendant les dernières secondes (au plus 8 % de l'épisode, pratique pour les épisodes courts) et l'épisode suivant se lance à la vraie fin. Le passage anticipé ne se fait que pour une série dont tu as déjà sauté le générique avec « Lire », et avec la vraie durée du flux.
+- Les génériques appris par les versions précédentes (parfois faussés) sont remis à zéro.
+
 ## 3.43 – 2026-11-27
 
 - Logo unifié : l'en-tête, le menu latéral sur TV, l'écran de démarrage et la présentation affichent maintenant le vrai logo MUVIXA, identique à l'icône de l'appli.
